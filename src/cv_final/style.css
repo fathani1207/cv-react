@@ -1,0 +1,74 @@
+.classinderbody{
+	background-color: white;	
+	margin: auto;
+	max-width: 1000px;
+	font-family:  Calibri, sans-serif;
+}
+
+.classdivLeft
+{
+	width: 350px;
+	height: 1200px;
+	background-color: rgb(27,33,45);
+	color: white;
+}
+
+.classimg
+{
+	border : 3px white solid; 
+	border-radius : 50%;
+	box-shadow: 0px 0px 10px #777;	
+	width: 200px;	
+	height: 250px;
+	margin-left: 20px;
+}
+
+.iconper{
+	width: 25px;
+	height: 25px;
+}
+.classmail{
+	text-decoration: underline;
+}
+.classiconLeft{
+	background-color: white;
+	width: 40px;
+	height: 40px;
+	color: black;
+}
+.classbarLeft{
+	background-color: rgb(32, 141, 210);
+	height: 40px;
+	font-size: 30px;
+	margin-left: 40px;
+	margin-top: -44px;
+	padding-left: 10px;
+}
+
+.classdivRight{
+	margin-left: 350px;
+	margin-top: -1200px;
+	height: 1173px;
+}
+
+.classiconRight{
+	background-color: rgb(32, 141, 210);
+	width: 40px;
+	height: 40px;
+}
+.classbarRight{
+	background-color: rgb(27,33,45);
+	height: 40px;
+	font-size: 30px;
+	margin-left: 40px;
+	margin-top: -44px;
+	padding-left: 10px;
+	color: white;
+}
+footer{
+	text-align : right; 
+	color : white;
+	 background-color:black;
+	height: 40px;
+	font-size: 20px
+}
